@@ -1,0 +1,10 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.4.5
+B	x1+lVertical Peak Ground Acceleration (cm/s@+2@+)
+J	m
+Jm	m4
+R	119/123/21/26
+X	c
+Y	c
+L	6
+END
